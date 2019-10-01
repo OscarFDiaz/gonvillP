@@ -1,0 +1,61 @@
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Gonvill.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Gonvill.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Npgsql.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Npgsql.xml
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.AdditionsControl.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.CheckerControl.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.LoginControl.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.MainForm.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.QuotationControl.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.SearchControl.resources
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.csproj.GenerateResource.Cache
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.exe
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.pdb
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Npgsql.dll
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oscar Diaz\Documents\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.CotizacionesGuardadas.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\Gonvill.exe
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\Gonvill.pdb
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\Mono.Security.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\Npgsql.pdb
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\Npgsql.xml
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\de\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\es\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.csprojResolveAssemblyReference.cache
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.AdditionsControl.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.CheckerControl.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.CotizacionesGuardadas.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.LoginControl.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.MainForm.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.QuotationControl.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.SearchControl.resources
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.csproj.GenerateResource.Cache
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.exe
+C:\Users\rebel\Documents\4rtosemestre\Seminario de base de datos\Proyecto\Gonvill\obj\Debug\Gonvill.pdb
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Gonvill.exe
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Gonvill.pdb
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Npgsql.pdb
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\Npgsql.xml
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\de\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\es\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\fi\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\fr\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\ja\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.AdditionsControl.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.CheckerControl.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.CotizacionesGuardadas.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.LoginControl.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.MainForm.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.QuotationControl.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.SearchControl.resources
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.csproj.GenerateResource.Cache
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.exe
+E:\PROGRAMACION\SharpDevelop Projects\Gonvill\Gonvill\obj\Debug\Gonvill.pdb
